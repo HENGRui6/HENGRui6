@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Derek 
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning C 
+- 🌱 I’m currently learning C and Python
 - 📫 You can reach me at zbx20010202@gmail.com
 
 <!---
